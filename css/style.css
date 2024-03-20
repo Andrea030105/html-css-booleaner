@@ -65,15 +65,17 @@ td {
 }
 
 .thtable {
-    background-color: blue;
+    background-color: rgb(32, 169, 229);
+    color: white;
 }
 
 .bg_tdtable {
-    background-color: aqua;
+    background-color: rgb(177, 229, 242);
 }
 
 .h3_size {
     font-size: 30px;
+    color: lightgray;
 }
 
 .text_img {
