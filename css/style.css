@@ -5,6 +5,11 @@
     font-family: 'Times New Roman', Times, serif;
 }
 
+.container {
+    width: 75%;
+    margin: 0 auto;
+}
+
 header {
     height: 100px;
     background-color: #4ea0ff;
@@ -37,6 +42,10 @@ h1 {
 .data {
     font-size: 25px;
     color: gray;
+}
+
+.h4_size {
+    font-size: 22px;
 }
 
 .text_main {
