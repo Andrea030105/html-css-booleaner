@@ -27,10 +27,12 @@ main {
 }
 
 h1 {
+    margin: 10px;
     font-size: 70px;
 }
 
 .autore {
+    margin-top: 20px;
     font-size: 34px;
     color: gray;
 }
@@ -42,6 +44,7 @@ h1 {
 .data {
     font-size: 25px;
     color: gray;
+    margin-bottom: 20px;
 }
 
 .h4_size {
@@ -70,12 +73,16 @@ table {
 
 th,
 td {
-    font-size: 30px;
+    font-size: 20px;
 }
 
-.thtable {
+thead {
     background-color: rgb(32, 169, 229);
     color: white;
+}
+
+.size_column {
+    width: 50%;
 }
 
 .bg_tdtable {
