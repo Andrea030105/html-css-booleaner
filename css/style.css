@@ -22,11 +22,11 @@ main {
 }
 
 h1 {
-    font-size: 60px;
+    font-size: 70px;
 }
 
 .autore {
-    font-size: 16px;
+    font-size: 34px;
     color: gray;
 }
 
@@ -35,6 +35,38 @@ h1 {
 }
 
 .data {
-    font-size: 12px;
+    font-size: 25px;
     color: gray;
+}
+
+.text_main {
+    font-size: 30px;
+    margin: 35px 0 35px 0;
+}
+
+.text_bgyellow {
+    background-color: yellow;
+}
+
+.list_unordered {
+    padding-left: 40px;
+    font-size: 30px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    font-size: 30px;
+}
+
+.bg_thtable {
+    background-color: blue;
+}
+
+.bg_tdtable {
+    background-color: aqua;
 }
